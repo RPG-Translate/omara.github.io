@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":514,"scrollY":335},
+{"id":2,"expanded":false,"name":"Home 1st Floor","order":4,"parentId":0,"scrollX":506,"scrollY":335},
+{"id":3,"expanded":false,"name":"Divine Omara Shrine","order":2,"parentId":0,"scrollX":514,"scrollY":335},
+{"id":4,"expanded":false,"name":"MAP004","order":6,"parentId":0,"scrollX":514,"scrollY":338},
+{"id":5,"expanded":false,"name":"Home 2nd Floor","order":5,"parentId":0,"scrollX":506,"scrollY":382},
+null,
+null,
+{"id":8,"expanded":false,"name":"Priest's House","order":3,"parentId":0,"scrollX":514,"scrollY":335}
+]

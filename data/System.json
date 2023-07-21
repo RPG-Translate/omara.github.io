@@ -1,0 +1,585 @@
+{
+  "airship": {
+    "bgm": {
+      "name": "Ship3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 3,
+    "characterName": "Vehicle",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "armorTypes": [
+    "",
+    "Armadura general",
+    "Armadura Mágica",
+    "Armadura ligera",
+    "Armadura pesada",
+    "Escudo pequeño",
+    "Escudo grande"
+  ],
+  "attackMotions": [
+    {
+      "type": 0,
+      "weaponImageId": 0
+    },
+    {
+      "type": 1,
+      "weaponImageId": 1
+    },
+    {
+      "type": 1,
+      "weaponImageId": 2
+    },
+    {
+      "type": 1,
+      "weaponImageId": 3
+    },
+    {
+      "type": 1,
+      "weaponImageId": 4
+    },
+    {
+      "type": 1,
+      "weaponImageId": 5
+    },
+    {
+      "type": 1,
+      "weaponImageId": 6
+    },
+    {
+      "type": 2,
+      "weaponImageId": 7
+    },
+    {
+      "type": 2,
+      "weaponImageId": 8
+    },
+    {
+      "type": 2,
+      "weaponImageId": 9
+    },
+    {
+      "type": 0,
+      "weaponImageId": 10
+    },
+    {
+      "type": 0,
+      "weaponImageId": 11
+    },
+    {
+      "type": 0,
+      "weaponImageId": 12
+    }
+  ],
+  "battleBgm": {
+    "name": "Battle1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "battleback1Name": "Grassland",
+  "battleback2Name": "Grassland",
+  "battlerHue": 0,
+  "battlerName": "Dragon",
+  "boat": {
+    "bgm": {
+      "name": "Ship1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 0,
+    "characterName": "Vehicle",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "currencyUnit": "Ｇ",
+  "defeatMe": {
+    "name": "Defeat1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "editMapId": 5,
+  "elements": [
+    "",
+    "Físico",
+    "Fuego",
+    "Hielo",
+    "Trueno",
+    "Agua",
+    "Tierra",
+    "Viento",
+    "Luz",
+    "Oscuridad"
+  ],
+  "equipTypes": [
+    "",
+    "Arma",
+    "Escudo",
+    "Cabeza",
+    "Cuerpo",
+    "Accesorio"
+  ],
+  "gameTitle": "Omara-Sama - Traducido por RPG Translate",
+  "gameoverMe": {
+    "name": "Gameover1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "locale": "ja_JP",
+  "magicSkills": [
+    1
+  ],
+  "menuCommands": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "optDisplayTp": true,
+  "optDrawTitle": false,
+  "optExtraExp": false,
+  "optFloorDeath": false,
+  "optFollowers": true,
+  "optSideView": false,
+  "optSlipDeath": false,
+  "optTransparent": true,
+  "partyMembers": [
+    1
+  ],
+  "ship": {
+    "bgm": {
+      "name": "Ship2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    "characterIndex": 1,
+    "characterName": "Vehicle",
+    "startMapId": 0,
+    "startX": 0,
+    "startY": 0
+  },
+  "skillTypes": [
+    "",
+    "Magia",
+    "Especial"
+  ],
+  "sounds": [
+    {
+      "name": "Cursor2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Decision1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Cancel2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Buzzer1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Equip1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Save",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Load",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Battle1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Run",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Attack3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Damage4",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Damage5",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Collapse4",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Recovery",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Miss",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Evasion1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Evasion2",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Reflection",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Shop1",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Item3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    },
+    {
+      "name": "Item3",
+      "pan": 0,
+      "pitch": 100,
+      "volume": 90
+    }
+  ],
+  "startMapId": 1,
+  "startX": 0,
+  "startY": 0,
+  "switches": [
+    "",
+    "ＯＰ",
+    "チャイム",
+    "神社へ",
+    "記憶",
+    "お願い",
+    "ネット",
+    "朝",
+    "再び神社へ",
+    "帰宅",
+    "母風呂上り",
+    "友達訪問",
+    "友達見つかる",
+    "友達終わり",
+    "射精",
+    "３ｐ",
+    "エンディング",
+    "グチュ",
+    "手コキ",
+    "ピストン",
+    "手コキ２",
+    "ピストン２",
+    "ピストン３",
+    "キス",
+    "グチュ２",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "terms": {
+    "basic": [
+      "Nivel",
+      "Lv",
+      "HP",
+      "HP",
+      "Parlamentario",
+      "Parlamentario",
+      "TP",
+      "TP",
+      "Exp",
+      "Exp"
+    ],
+    "commands": [
+      "Lucha",
+      "Escapar",
+      "Ataque",
+      "Guardia",
+      "Item",
+      "Habilidad",
+      "Equipar",
+      "Estado",
+      "Formación",
+      "Guardar",
+      "Salir",
+      "Opciones",
+      "Arma",
+      "Armadura",
+      "Elemento clave",
+      "Equipar",
+      "Optimizar",
+      "Claro",
+      "Nuevo juego",
+      "Continuar",
+      null,
+      "Titulo",
+      "Cancelar",
+      null,
+      "Comprar",
+      "Vender"
+    ],
+    "params": [
+      "HP máx.",
+      "MP máx.",
+      "Ataque",
+      "Defensa",
+      "M.Ataque",
+      "M.Defensa",
+      "Agilidad",
+      "Suerte",
+      "Pegar",
+      "Evasión\n"
+    ],
+    "messages": {
+      "actionFailure": "¡No hubo ningún efecto en %1!",
+      "actorDamage": "¡%1 recibió %2 de daño!",
+      "actorDrain": "%1 fue drenado de %2 %3!",
+      "actorGain": "%1 ganó %2 %3",
+      "actorLoss": "%1 perdió %2 %3",
+      "actorNoDamage": "¡%1 no recibió daño!",
+      "actorNoHit": "¡Señorita! ¡%1 no recibió daño!",
+      "actorRecovery": "%1 recuperó %2 %3!",
+      "alwaysDash": "Corre Siempre",
+      "bgmVolume": "Volumen de Música",
+      "bgsVolume": "Volumen BGS",
+      "buffAdd": "¡El %2 de %1 subió!",
+      "buffRemove": "¡El %2 de %1 volvió a la normalidad!",
+      "commandRemember": "Comando Recordar",
+      "counterAttack": "¡%1 contraatacó!",
+      "criticalToActor": "Un golpe doloroso!!",
+      "criticalToEnemy": "Un excelente acierto!!",
+      "debuffAdd": "¡El %2 de %1 se cayó!",
+      "defeat": "%1 fue derrotado.",
+      "emerge": "%1 emergió!",
+      "enemyDamage": "¡%1 recibió %2 de daño!",
+      "enemyDrain": "%1 fue drenado de %2 %3!",
+      "enemyGain": "%1 ganó %2 %3",
+      "enemyLoss": "¡%1 perdió %2 %3!",
+      "enemyNoDamage": "¡%1 no recibió daño!",
+      "enemyNoHit": "¡Señorita! ¡%1 no recibió daño!",
+      "enemyRecovery": "%1 recuperado %2 %3",
+      "escapeFailure": "Sin embargo, ¡no pudo escapar!",
+      "escapeStart": "¡%1 ha comenzado a escapar!",
+      "evasion": "¡%1 evadió el ataque!",
+      "expNext": "Al siguiente %1",
+      "expTotal": "%1 actual",
+      "file": "Expediente",
+      "levelUp": "%1 es ahora %2 %3",
+      "loadMessage": "¿Cargar qué archivo?",
+      "magicEvasion": "¡%1 anuló la magia!",
+      "magicReflection": "¡%1 reflejó la magia!",
+      "meVolume": "Volumen ME",
+      "obtainExp": "¡%1 %2 recibido!",
+      "obtainGold": "%1\\G encontrado!",
+      "obtainItem": "¡%1 encontrado!",
+      "obtainSkill": "¡%1 aprendido!",
+      "partyName": "Fiesta de %1",
+      "possession": "Posesión",
+      "preemptive": "¡%1 tomó la delantera!",
+      "saveMessage": "¿Guardar en qué archivo?",
+      "seVolume": "Volumen SE",
+      "substitute": "%1 protegido %2!",
+      "surprise": "¡%1 se sorprendió!",
+      "useItem": "¡%1 usa %2!",
+      "victory": "¡%1 salió victorioso!"
+    }
+  },
+  "testBattlers": [
+    {
+      "actorId": 1,
+      "equips": [
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "level": 1
+    },
+    {
+      "actorId": 2,
+      "equips": [
+        2,
+        1,
+        2,
+        3,
+        0
+      ],
+      "level": 1
+    },
+    {
+      "actorId": 3,
+      "equips": [
+        3,
+        0,
+        2,
+        3,
+        4
+      ],
+      "level": 1
+    },
+    {
+      "actorId": 4,
+      "equips": [
+        4,
+        0,
+        2,
+        3,
+        4
+      ],
+      "level": 1
+    }
+  ],
+  "testTroopId": 4,
+  "title1Name": "タイトル",
+  "title2Name": "",
+  "titleBgm": {
+    "name": "bgm",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "variables": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "versionId": 13101596,
+  "victoryMe": {
+    "name": "Victory1",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "weaponTypes": [
+    "",
+    "Daga",
+    "Espada",
+    "Mayal",
+    "Hacha",
+    "Látigo",
+    "Caña",
+    "Arco",
+    "Ballesta",
+    "Pistola",
+    "Garra",
+    "Guante",
+    "Lanza"
+  ],
+  "windowTone": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "hasEncryptedImages": true,
+  "hasEncryptedAudio": true,
+  "encryptionKey": "a5ea83abc41d001e18db9007e98c04f0"
+}

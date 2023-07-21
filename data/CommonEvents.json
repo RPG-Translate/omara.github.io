@@ -1,0 +1,6658 @@
+[
+  null,
+  {
+    "id": 1,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 50;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 60;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"guchu2\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "グチュ",
+    "switchId": 17,
+    "trigger": 2
+  },
+  {
+    "id": 2,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 50;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 60;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"tekoki\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          600
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "手コキ",
+    "switchId": 18,
+    "trigger": 2
+  },
+  {
+    "id": 3,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 100;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 100;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 100;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 100;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"piston3\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          135
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "ピストン",
+    "switchId": 19,
+    "trigger": 2
+  },
+  {
+    "id": 4,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 50;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 60;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"tekoki2\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          480
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "手コキ２",
+    "switchId": 20,
+    "trigger": 2
+  },
+  {
+    "id": 5,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"piston\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          190
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "ピストン２",
+    "switchId": 21,
+    "trigger": 2
+  },
+  {
+    "id": 6,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 50;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 60;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"piston2\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          30
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "ピストン３",
+    "switchId": 22,
+    "trigger": 2
+  },
+  {
+    "id": 7,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 20;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 60;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 80;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 110;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"kiss2\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          75
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "キス",
+    "switchId": 23,
+    "trigger": 2
+  },
+  {
+    "id": 8,
+    "list": [
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "var vmin = 50;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var vmax = 60;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmin = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "var pmax = 90;"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "AudioManager.playSe({\"name\":\"guchu2\","
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"volume\":Math.floor(Math.random()*(vmax+1-vmin))+vmin,"
+        ]
+      },
+      {
+        "code": 655,
+        "indent": 0,
+        "parameters": [
+          "\"pitch\":Math.floor(Math.random()*(pmax+1-pmin))+pmin});"
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          45
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "グチュ２",
+    "switchId": 24,
+    "trigger": 2
+  },
+  {
+    "id": 9,
+    "list": [
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "game_maoudamashii_7_event36",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡¿EH?! ¡¿E-ESPERA... QUÉ HACES...?!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Nuestro método es un poco único."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Es necesario para conectar con Dios\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¿De-En serio?..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Quiero decir que este santuario está dedicado a"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "culto a los genitales, tal vez sea verdad…)”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Aún así... ¡¿Por qué es tan grande?!)\""
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "swish2",
+            "volume": 90,
+            "pitch": 120,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡¡Hola!!\""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-8",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"¡No te muevas!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Omara-Sama me está poseyendo."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Debes entregarte a él\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¿Poseer?...\""
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "swish2",
+            "volume": 90,
+            "pitch": 120,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Nmmm Ah..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Mis-Mis pechos…)”"
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-4",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Q-Qué es esto..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Realmente se está moviendo por sí solo...!)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Mi cuerpo se está poniendo... más caliente...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(No me gusta... Pero cada vez que lo toco"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Tengo una pequeña oleada de placer ...) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Ayako-San, ¿estás familiarizada con las leyendas?\""
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "de este santuario?"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¿Eh?...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Se dice que si orinas en la puerta del Santuario"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Omara-Sama te va a quitar el pene\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Aah...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Aunque eso está mal. En algún lugar a lo largo de la "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "línea hubo un malentendido ・ ・ ・ El pene no está"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "tomado ・ ・ ・ Es \"Secuestrado\" por lo tanto posesión,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Como yo ahora mismo...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Ja...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Aah Eso... Se siente tan bien...\""
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Me está volviendo loco... Me da vueltas la cabeza)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Ahora, terminemos. Abre la boca y sirve\"."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "yo, toma el vino sagrado. Abre la boca lentamente...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡¿EH?! ...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Estás familiarizado con él, ¿verdad?"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Solo hazlo como lo haces habitualmente con tu marido."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Estarás bien ... \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Lo... lo siento... Mi amor\"."
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "guchu2",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-5",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Hahmm ♡...\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          17,
+          17,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          0
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-7",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Aah, eso se siente increíble."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Solo así, Ayako-San\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(No puedo creer que le esté dando una mamada a"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "alguien que acabo de conocer ・ ・ ・ Ni siquiera se lo he hecho"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          " a mi marido en un tiempo...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Aah ・ ・ ・ Pero se siente tan bien ♡ ・ ・ ・"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿Por qué se siente tan bien? ・ ・ ・) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"¡Aaah, se acerca!... ¡El vino sagrado se acerca!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"?!\""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "3-6",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          17,
+          17,
+          1
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 120,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡¿Hnnghhh?!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako>\" (Tanto..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Tan rico ...) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"El vino sagrado es una bendición que contiene el"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "poder de Omara-Sama, bébelo y tómalo en"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "tu cuerpo, que tu hijo sea entregado a salvo en"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "este mundo ... \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"...\""
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "nomu",
+            "volume": 90,
+            "pitch": 110,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "nomu",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 1\n",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 10,
+    "list": [
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          19,
+          19,
+          0
+        ]
+      },
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "bgm_maoudamashii_acoustic33",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "4-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Hmm... Ah ♡... Hngh... Oh ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"¡Oh, es maravilloso!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Es más apretado de lo que jamás hubiera imaginado!”."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Hng... Nghh ♡..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Ah A-Aah ・ ・ ・ Ah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Es tan profundo ♡ Nunca había sentido nada como"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "esto antes ♡)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Para compartir e intensificar este placer..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡ESTE ES EL PODER DE OMARA-SAMA!”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Esta es la leyenda de Omara-Sama,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "El ritual para imbuir a alguien con este poder\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Fue mi familia la que sirvió a Omara-Sama"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "por generaciones, es un poder que solo mi familia"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "puede manejar!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Entonces por qué..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿Por qué mi hijo ... \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Recuerda el vino sagrado que bebiste mientras"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿Estabas embarazada? Mi linaje continúa en tu hijo\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"No... Entonces es mi culpa..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Aah ♡ ・ ・ ・ No puedo ♡”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"No hay necesidad de ser tan pesimista."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Tienes este increíble poder a tu disposición!\""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "4-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Ah ♡ Ah ♡ Ah ♡ Ah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Qué es esto... ¡Increíble!...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"La última vez que tuviste sexo con tu esposo fue un"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "hace un año ・ ・ ・ Parece que tenías mucho en tu"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "lámina. \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"C-Cómo sabes que...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"Fufufu... Este también es el poder"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "de Omara-Sama\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Ah ♡ Ah ♡ Ah ♡ Ah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(No ・ ・ ・ ¡Se siente demasiado bien! ・ ・ ・"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Mi cabeza da vueltas! ...) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Sacerdote del Santuario> \"¡AAH VIENE! ¡VIENE!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡¡¡A-AaaAHHH AYAKO-SAN!!!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Ah ♡ Ah ♡ AH ♡ N-NOOOOO ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Lo quiero ..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Quiero ese semen espeso en mí ♡ ・ ・ ・)”"
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          19,
+          19,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 120,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Ah Ooohhoo ♡♡\""
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 2",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 11,
+    "list": [
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "5-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(¿Su pene siempre fue así de grande,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Realmente ha crecido de una manera extraña...)\""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "5-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Aah... Ja..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Solo bañarme con él me hace sentir bien,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Este debe ser el poder de Omara-Sama…)”"
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 246,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 222,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡Oh, no!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Se sintió tan bien que me quedé dormido\""
+        ]
+      },
+      {
+        "code": 246,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "bgm",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "5-3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(¡¿Se puso duro?!)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Es tan caliente y duro..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿Es este realmente el pene de Shota?...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Tengo que hacerla eyacular...)\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          0
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "5-4",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Mmm... Aah ♡..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Se siente tan bien ♡ ・ ・ ・"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Es como si lo estuviera masturbando...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Vaya... El líquido preseminal "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "está goteando por todas partes ...) \"」"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Pero este es el pene de Shota."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Esto se siente raro...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(¿Qué está pasando..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "No sale, aunque está pulsando..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Pero se siente bien ♡)\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          1
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "6-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Tal vez le gusta estar entre mis pechos,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Sé que su padre lo disfruta...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(En qué estoy pensando...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Hmm ♡ ・ ・ ・ Ah ♡ ・ ・ ・"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Puedo sentirlo contraerse en mis pechos...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Le estoy haciendo una cubana a mi propio hijo..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Lo siento Shota..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Solo estoy tratando de ayudar ...) \""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "6-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Ja... ja..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(¡Aún no llega!..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Qué debo hacer ...) \""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 3",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 12,
+    "list": [
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "bgm",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "7-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"(No sabía que los penes podían ponerse"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "duro así...)\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          0
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "7-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"(¿Qué diablos? Se está mojando..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Esto se está poniendo un poco lascivo...)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Mmm ♡　"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Se siente bien… ¿Pero por qué?…)”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¿Qué estoy haciendo..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Esta es la polla de Shota...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Hah... Hah... (¿No es más grande?)"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿que antes? ...) \""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          18,
+          18,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          20,
+          20,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "8-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Y-yo solo voy a lavarlo s-así que..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Ah ♡ ・ ・ ・ Sí ♡)”"
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "8-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Ah ♡ ・ ・ ・ Mmm ♡ ・ ・ ・"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Me siento completo ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Cada vez es más difícil..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Esto es demasiado caliente ♡ ・ ・ ・)”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"(¡Dios mío, se siente tan bien! ♡\""
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿Qué pasará si me lo meto..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "No, no puedo ♡・・・)”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Hah... Hah...\""
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          20,
+          20,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¿Mamá?\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"... Aún no ha vuelto...\""
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "guchu2",
+            "volume": 90,
+            "pitch": 80,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "9-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aaah ♡ E-Está en ♡...\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          17,
+          17,
+          0
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "9-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Ah ♡ Increíble, esto... ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Esto es lo real ♡ ・ ・ ・ \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"(No puedo creer que mi primera vez sea con mi"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "la polla del hermano ・ ・ ・ Pero no puedo parar ♡　"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Está tan húmedo y se siente tan bien ♡) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Ah Aah ♡ Aaaah ♡ Hmmm ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Está llegando muy dentro de mí ♡ Se siente tan bien ♡) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aah ♡ No puedo seguir el ritmo ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Ah ～～ ME ESTOY CORRIENDO ♡♡♡ ”"
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          17,
+          17,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "9-3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          120
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "9-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Oh mierda ♡ ・ ・ ・"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Me corrí en la polla de mi hermano ♡ ・ ・ ・ ”"
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 4",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 13,
+    "list": [
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          17,
+          17,
+          0
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "10-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aah ♡ Aah ♡ Aah ♡ Aah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Se siente tan bien ♡ \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¡Esta polla es increíble! ♡\""
+        ]
+      },
+      {
+        "code": 213,
+        "indent": 0,
+        "parameters": [
+          -1,
+          1,
+          true
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "10-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Ah...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"Eh...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¡N-No! ¡No es lo que parece!..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(Mierda ・ ・ ・ Ser atrapado por los amigos de "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Shota esta haciendo que me excite, no puedo parar ♡)\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"¡Sé lo que es esto! ¡Es un consolador!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Mi mamá solía tener uno\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¿Q-Qué? ¡¿Por qué estás aquí?!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"Sí, le presté a Shota mi masturbador, así que"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Solo lo estaba agarrando\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¡¿Masturbador?!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"Pero..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Parece que encontré uno aún mejor...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¿E-Eh?...\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          17,
+          17,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 5",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 14,
+    "list": [
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          21,
+          21,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          23,
+          23,
+          0
+        ]
+      },
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "game_maoudamashii_7_event12",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "11-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aah ♡ Aah ♡ Aah ♡ AaHhhmmm ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"Hah Hah ¡Se siente tan bien!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡El sexo es increíble!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aah ♡ Aah ♡ Aah ♡ Aah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Tu pene es tan caliente ♡ \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡¿Qué estás haciendo, Hikaru?!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡Detén esto!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡No se supone que hagas esto!\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"¡Espera, tía!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Casi termino! \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"Si no fuera por la hermana de Shota."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Es su culpa por usar un consolador aquí!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡¿Un consolador?!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "No ... \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"¿Por qué no lo cuidas?\""
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Sabes que está enamorado de ti, tía...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡Oye, no le digas eso!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡De qué estás hablando!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡No voy a hacer eso!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡No es justo! ¿Cómo es que él es el único"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "quien llega a tener sexo!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Tía, por favor!\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"No... N-no puedo...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"Te prometo que no se lo diré a nadie, ¿de acuerdo?"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Solo por esta vez, por favor!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"O-Está bien...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡Por favor!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"... Ya dije que estaba bien."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Bien, usaré mis manos, ¿de acuerdo?\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡SÍ! ¡Ja... Ja...!\""
+        ]
+      },
+      {
+        "code": 235,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          21,
+          21,
+          1
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          23,
+          23,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          20,
+          20,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "12-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Dios mío..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Es muy dificil ...) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡Vaya! La mano de la tía"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Son tan suaves y cálidos que se siente increíble!\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(¿Cómo llegamos aquí..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Apuesto a que estás disfrutando esto"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿no es así, Ayako ・ ・ ・ Suspiro) ”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(No, realmente estoy empezando a disfrutarlo..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Necesito terminar esto rápido.) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡Pechos, quiero ver tus pechos! ...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"O-Está bien..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Supongo que no se puede evitar...\""
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "swish",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          180
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "12-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Está bien...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡Vaya! ¡Son enormes! ..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Hah... Hah ¡Qué calor!\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(No esperaba que los amigos de Shota fueran así..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿Están los niños así de cachondos hoy en día?) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡Oh, no! ¡Ya viene!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Ah correrse!!!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡¿Eh?!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"¡Ngh!\""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "12-3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          20,
+          20,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum",
+            "volume": 100,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum",
+            "volume": 100,
+            "pitch": 80,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "12-4",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¿Te sientes mejor?"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Oh, está por toda mi ropa...\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ryosuke> \"Ja... Ja"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Se sintió increíble, tía\"."
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          21,
+          21,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          23,
+          23,
+          0
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "11-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hayato> \"¡Ah-yo también me voy a correr!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "CORRIENDO!!!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aah ♡ Aah ♡ Aah ♡ Aah ♡\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          21,
+          21,
+          1
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          23,
+          23,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 120,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"AAaah Ohhhooohooo ♡♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Oye, ¡¿no puedes eyacular dentro de ella?!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Ja... Ja"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "E-Está bien, hoy es un día seguro ♡ ・ ・ ・ ”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"(Hikaru realmente gemía mucho,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Me pregunto si ella realmente lo disfrutó ...) \""
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 6",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 15,
+    "list": [
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          24,
+          24,
+          0
+        ]
+      },
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "bgm_maoudamashii_orchestra01",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "13-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Ho ♡ Ho ♡ Ho ♡ Ho ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Que bueno ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"No puedo quitarle los ojos de encima"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "ya no aguanto mas ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"N-no puedo... ¡Es la polla de mi propio hijo!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Pero no puedo parar ♡\""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "13-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Aaah ♡ Aah ♡ Aah Ohh ♡ Ah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "(¡Se siente tan bien que no puedo parar!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Me estoy volviendo loco! ♡) \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Esta polla ♡ la polla de Shota ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Es tan buenooooooo ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Lo siento mucho Shota, soy una"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "madre tan pervertida ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡Omara-Sama ♡ Omara-Samaaaaa! ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Aah ♡ Ah ♡ Corrida ♡ Corrida ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "CORRIENDO ♡ CORRIENDO ♡ \""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "13-3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          24,
+          24,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 120,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡Aaahh-Ooohhhh!\""
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 7",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 16,
+    "list": [
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          19,
+          19,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          23,
+          23,
+          0
+        ]
+      },
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "bgm_maoudamashii_acoustic19",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "14-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Shota> \"¡Sexo! ¡El sexo se siente tan bien!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Tetas! ¡Tetas de mami!”."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aah ♡ Ah ♡ Aah ♡ Ah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Me voy a correr de nuevo! ♡ \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Deja de acapararlo solo para ti, Hikaru\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"L-Lo tenías antes, así que d-deja de quejarte\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"No, no fue suficiente\"."
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Ah ♡ Aaah ♡ Aah ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¿Por qué no le preguntas a papá entonces si "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "estás tan ansiosa?"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"E-Eso no es justo Hikaru, además, está en un"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "viaje de negocios y yo ・ ・ ・ prefiero la "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "verga de Shota ♡”"
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \" ME ESTOY CORRIENDO ♡ ME CORRO ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "ME CORRO  ME CORRO ♡♡\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          19,
+          19,
+          1
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          23,
+          23,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Aaaahhhh, se siente tan bien ♡♡\""
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 8",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 17,
+    "list": [
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "bgm_maoudamashii_acoustic19",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "15-1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"Shota, ¿por qué no metes tu polla en el coño de mamá ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Puedes eyacular todo lo que quieras,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "cuando quieras ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Pero mi coño se siente mejor, ¿verdad?"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Te gusta más la de tu hermana, ¿verdad?\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Shota> \"¡Hah... Hah!\""
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "guchu2",
+            "volume": 90,
+            "pitch": 80,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "15-2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako・ Hikaru> \"¡¡Ooooh!!\""
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          22,
+          22,
+          0
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "15-3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako ・ Hikaru> \"Aah ♡ Aah ♡ Aah ♡ Aah ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Shota> \"Te conozco..."
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Yo sé lo que hiciste! Sé que tuviste sexo con "
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Hayato y  los otros mientras yo no estaba otro día!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"¡Eh! ¡¿C-Cómo lo supiste?! ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"No... ¡No fue así! ♡\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Shota> \"¡Este coño es SÓLO PARA MÍ!\""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Hikaru> \"Lo siento, lo siento ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Por favor perdónameeeeeee! ♡ \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako> \"¡Tu polla es la mejor! ♡"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "Mi coño ya ha tomado tu forma,"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡Solo tú puedes llenarlo! ♡ \""
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Shota> \"¡Fu! ¡Fu!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "¡¡¡No puedo parar! ¡¡¡ME CORRO!!! ¡¡¡ME ESTOY CORRIENDO!!!\""
+        ]
+      },
+      {
+        "code": 231,
+        "indent": 0,
+        "parameters": [
+          1,
+          "15-4",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      {
+        "code": 121,
+        "indent": 0,
+        "parameters": [
+          22,
+          22,
+          1
+        ]
+      },
+      {
+        "code": 251,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 120,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          {
+            "name": "cum2",
+            "volume": 90,
+            "pitch": 100,
+            "pan": 0
+          }
+        ]
+      },
+      {
+        "code": 356,
+        "indent": 0,
+        "parameters": [
+          "P_SHAKE 1 3 9 90 30"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 0,
+        "parameters": [
+          [
+            255,
+            255,
+            255,
+            170
+          ],
+          60,
+          true
+        ]
+      },
+      {
+        "code": 101,
+        "indent": 0,
+        "parameters": [
+          "",
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\n<Ayako・Hikaru>「AaahhhhAAAAAaaaahhhhh♡♡♡」"
+        ]
+      },
+      {
+        "code": 221,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 242,
+        "indent": 0,
+        "parameters": [
+          1
+        ]
+      },
+      {
+        "code": 230,
+        "indent": 0,
+        "parameters": [
+          60
+        ]
+      },
+      {
+        "code": 355,
+        "indent": 0,
+        "parameters": [
+          "Scene_Recollection.prototype.rngd_exit_scene();"
+        ]
+      },
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "Escena 9",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 18,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 19,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 20,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 21,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 22,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 23,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 24,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 25,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 26,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 27,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 28,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 29,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 30,
+    "list": [
+      {
+        "code": 0,
+        "indent": 0,
+        "parameters": []
+      }
+    ],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  }
+]
